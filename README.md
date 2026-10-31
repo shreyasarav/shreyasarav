@@ -73,5 +73,6 @@ An integrated computational analysis of **Triple-Negative Breast Cancer (TNBC)**
 
 
 - Email: shreyasaravanan12@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shreya-saravanan-813a92434
 
 
